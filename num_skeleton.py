@@ -112,7 +112,7 @@ h       = xi[1]-xi[0]
    - fare grafico delle due funzioni 
 '''
 #e = findE(1.2,1.7,0.0001)
-#print "Energy ", e
+#print("Energy ",e)
 
 '''
   S4:
